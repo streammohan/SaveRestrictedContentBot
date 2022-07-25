@@ -63,3 +63,10 @@ Deploy your bot on `Okteto` [Useless]
 Tutorial for okteto - [click here](https://telegra.ph/Okteto-Deploy-04-01)
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
+
+
+## Deploy the Bot
+
+Press the below button to deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
